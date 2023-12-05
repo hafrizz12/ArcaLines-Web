@@ -8,7 +8,7 @@ For End of the Semester Exam, Hafidz Muhammad Rizky, 17, XI RPL.
 *******************
 Screenshots
 *******************
-![Admin](/screenshots/adminDefault.jpg)
+![Admin](/screenshots/adminDefault.png)
 ![User Management](/screenshots/userManagemen.png)
 
 Others can be found directly on the app! 
