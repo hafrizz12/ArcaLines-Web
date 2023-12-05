@@ -11,7 +11,7 @@ Screenshots
 ![Admin](/screenshots/adminDefault.png)
 ![User Management](/screenshots/userManagemen.png)
 
-Others can be found directly on the app! 
+Others can be found directly on the app! 100% done!!!!!!!
 **************************
 Changelog and New Features
 **************************
