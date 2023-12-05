@@ -1,0 +1,6 @@
+{
+    "name": "hafidzmrizky/resto",
+    "require": {
+        "pusher/pusher-php-server": "^7.2"
+    }
+}
