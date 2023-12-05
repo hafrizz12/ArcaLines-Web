@@ -1,23 +1,17 @@
-###################
-What is CodeIgniter
+Arcalines Website Application
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+At Arcalines, we're not just an airline; we're the architects of seamless journeys. Specializing in modern plane and passenger services, our commitment is simple: elevate your travel experience. With a fleet designed for efficiency and a sky-inspired aesthetic, we're redefining air travel. Step into a world where the sky's not the limit – it's just the beginning. 
+
+For End of the Semester Exam, Hafidz Muhammad Rizky, 17, XI RPL.
 
 *******************
-Release Information
+Screenshots
 *******************
+![Admin](/screenshots/adminDefault.jpg)
+![User Management](/screenshots/userManagemen.png)
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
-
+Others can be found directly on the app! 
 **************************
 Changelog and New Features
 **************************
