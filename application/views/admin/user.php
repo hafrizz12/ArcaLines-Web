@@ -285,7 +285,7 @@
                                 ?>
                                     <!-- Add more recent files here -->
                                   </div>
-                            </div>R
+                            </div>
                 </div>
                 </div>
             </div>
